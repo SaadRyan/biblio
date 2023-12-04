@@ -9,18 +9,18 @@ body {
 }
 
 a {
-    color: #ffffff;
+    color: #000000;
     text-decoration: none;
     margin-bottom: 10px;
 }
 
 h1 {
-    color: #ffffff;
+    color: #000000;
 }
 
 form {
     display: flex;
-    flex-flow: column;
+    flex-direction: column;
     max-width: 300px;
     margin: 20px 0;
 }
@@ -38,17 +38,19 @@ button {
 }
 
 .categoria {
+    display: flex;
+    flex-wrap: wrap;
     margin-top: 20px;
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(242, 242, 242);
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     overflow: hidden;
-    max-width: 600px;
+    max-width: 700px;
 }
 
 h2 {
-    background-color: #333;
-    color: white;
+    background-color: #ffffff96;
+    color: rgb(0, 0, 0);
     padding: 10px;
     margin: 0;
 }
