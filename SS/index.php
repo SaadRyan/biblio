@@ -97,9 +97,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['devolver'])) {
             <div class="lines"></div>
             <div class="lines2"></div>
         </div>
-        <div class="pub">
-            <div class="cub"></div>
-            <div class="pubtext"><p>Clique <a href="book.php">Aqui</a> para acessar nosso acervo digital!</p></div>
         </div>
     </section>
     <footer>
