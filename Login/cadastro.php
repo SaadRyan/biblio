@@ -35,7 +35,7 @@ if (isset($_POST['nome']) && isset($_POST['email']) && isset($_POST['senha'])) {
     <section class="cadastro_section">
         <h1>Biblioteca</h1>
         <div class="cadastro_box">
-            <h2>Fazer Cadastro</h2>
+            <h2>Cadastra-se</h2>
             <form method="post">
                 <input type="text" name="nome" placeholder="Nome Usuário" required>
                 <input type="text" name="email" placeholder="E-mail" required>

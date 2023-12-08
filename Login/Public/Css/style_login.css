@@ -31,7 +31,7 @@
     width: 490px;
     height: 480px;
     border-radius: 27px;
-    background: #ff00009e;
+    background: #ffff00;
     padding: 15px;
     display: flex;
     flex-wrap: wrap;
@@ -69,7 +69,7 @@
   border-radius: 6px;
   outline: none;
   border: none;
-  background: #dfdfdf;
+  background: #ffffff;
   margin: 10px 0 0 0;
   font-size: 20px;
   transition: background 1s ease-in-out;
