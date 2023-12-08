@@ -92,7 +92,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['devolver'])) {
     </header>
     <section>
         <div class="acervo">
-            <h1>Nosso Acervo</h1>
+            <h1>Livros Presentes</h1>
         </div>
                 <div class="livros">
             <?php foreach ($livrosPorCategoria as $categoria => $livrosNaCategoria): ?>
